@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+}
+
+.encabezado {
+    background-color: gray;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+.enlaces {
+    margin: 0px;
+    display: flex;
+    
+}
+
+menu {
+margin: 0px;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    margin-right: 0.2rem;
+}
+
+a {
+    color: pink;
+    font-size: x-large;
+}
+
+a:hover {
+    color: blue;
+}
+
+@media (max-width: 767px) {
+    header{
+        background-color: grey;
+    }
+
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
