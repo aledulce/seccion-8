@@ -49,3 +49,9 @@ a:hover {
 .greeting {
     text-align: center;
 }
+
+.pie {
+    text-align: center;   
+    height: 200 px;
+    background-color: aquamarine;
+}
